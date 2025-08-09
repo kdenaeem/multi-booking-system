@@ -1,0 +1,7 @@
+.env
+#ignore Whatsapp-agent-bot-tutorial folder
+/Whatsapp-agent-bot-tutorial
+.claude
+/venv
+app/__pycache__
+.claude
